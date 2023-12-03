@@ -1,0 +1,7 @@
+setup.py
+WinTermMenu/term_menu.py
+WinTermMenu.egg-info/PKG-INFO
+WinTermMenu.egg-info/SOURCES.txt
+WinTermMenu.egg-info/dependency_links.txt
+WinTermMenu.egg-info/requires.txt
+WinTermMenu.egg-info/top_level.txt
